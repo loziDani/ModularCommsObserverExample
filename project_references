@@ -1,0 +1,3 @@
+How to manage serialization and deserialization by marshalling and unmarshalling objects into JSON and viceversa using the Jackson dependency from Maven:
+https://www.baeldung.com/jackson-object-mapper-tutorial
+https://www.baeldung.com/jackson-collection-array

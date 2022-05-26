@@ -1,0 +1,119 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Daniel/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/Daniel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Daniel/.m2/repository/org/apache/commons/commons-configuration2/2.7/commons-configuration2-2.7.jar;C:/Users/Daniel/.m2/repository/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar;C:/Users/Daniel/.m2/repository/org/apache/commons/commons-text/1.8/commons-text-1.8.jar;C:/Users/Daniel/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/Daniel/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar;C:/Users/Daniel/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar;C:/Users/Daniel/.m2/repository/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java;C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ModularCommunicationsExample 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ModularCommunicationsExample 1.0-SNAPSHOT API'
+com.rosol.examples.modularCommsExample.app_architecture
+com.rosol.examples.modularCommsExample
+com.rosol.examples.modularCommsExample.communications_subsystem
+com.rosol.examples.modularCommsExample.communications_subsystem.comms_structure
+com.rosol.examples.modularCommsExample.communications_subsystem.comms_structure.package_format
+com.rosol.examples.modularCommsExample.communications_subsystem.comms_structure.package_format.package_format_structure
+com.rosol.examples.modularCommsExample.database_subsystem
+com.rosol.examples.modularCommsExample.database_subsystem.database_structure
+com.rosol.examples.modularCommsExample.user_interface_subsystem
+com.rosol.examples.modularCommsExample.user_interface_subsystem.user_interface_structure
+com.rosol.examples.modularCommsExample.user_interface_subsystem.user_interface_structure.user_interface_components
+com.rosol.examples.modularCommsExample.user_interface_subsystem.user_interface_structure.user_interface_components.main_communications_form.controllers
+com.rosol.examples.modularCommsExample.user_interface_subsystem.user_interface_structure.user_interface_components.main_communications_form
+com.rosol.examples.modularCommsExample.user_interface_subsystem.user_interface_structure.user_interface_components.main_communications_form.models
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/app_architecture/AppArchitecture.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/app_architecture/AppArchitectureBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/app_architecture/AppArchitectureSubsystems.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/app_architecture/IAppArchitectureBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/C4ISTARArchitectureNeeds.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/C4ISTARLauncher.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/CommsConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/CommsConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/CommsType.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/DataLink16CommsStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/ICommsStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/OtherTypesCommsStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/IPackageFormatConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/IPackageFormatConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/PackageFormatConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/PackageFormatConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/package_format_structure/CommsPackageFormatTypes.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/package_format_structure/IPackageFormat.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/package_format_structure/JSONPackageFormat.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/package_format_structure/OtherPackageFormat.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/package_format/package_format_structure/XmlPackageFormat.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/TCPIPCommsStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/comms_structure/UHFCommsStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/ICommsConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/communications_subsystem/ICommsConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/DatabaseConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/DatabaseConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/database_structure/DatabaseObject.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/database_structure/DatabaseType.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/database_structure/IDatabaseStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/database_structure/MongoDBDatabaseStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/database_structure/MySQLDatabaseTypeStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/database_structure/SQLiteDatabaseStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/IDatabaseConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/database_subsystem/IDatabaseConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/IUserInterfaceConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/IUserInterfaceConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/UserInterfaceConnector.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/UserInterfaceConnectorBuilder.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/IUserInterfaceStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/UserInterfaceComponents.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/UserInterfaceStructure.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/IScreenResolution.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/main_communications_form/controllers/ClearTextFieldsDataController.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/main_communications_form/controllers/DDBBInfoExchangeController.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/main_communications_form/controllers/ElementsListTableSelectionListener.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/main_communications_form/controllers/StartStopActionController.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/main_communications_form/MainForm.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/main_communications_form/models/ElementsListTableModel.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/main_communications_form/models/Person.java'
+'C:/RosolSoftwareProjects/C4ISTAR/Sample Projects/ModularCommunicationsExample/src/main/java/com/rosol/examples/modularCommsExample/user_interface_subsystem/user_interface_structure/user_interface_components/ScreenResolution.java'
+C:\Users\Daniel\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1647004060145
+C:\Users\Daniel\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1647004060081
+C:\Users\Daniel\.m2\repository\org\apache\commons\commons-configuration2\2.7\commons-configuration2-2.7.jar = 1647853540982
+C:\Users\Daniel\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar = 1647853540680
+C:\Users\Daniel\.m2\repository\org\apache\commons\commons-text\1.8\commons-text-1.8.jar = 1647853540634
+C:\Users\Daniel\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1646300415966
+C:\Users\Daniel\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar = 1647854595458
+C:\Users\Daniel\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar = 1646301203027
+C:\Users\Daniel\.m2\repository\org\xerial\sqlite-jdbc\3.36.0.3\sqlite-jdbc-3.36.0.3.jar = 1647940081134
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\src\main\java = 1647586512058
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\generated-sources\annotations = 1648104665828
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\allclasses-frame.html = 1648104722092
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\allclasses-noframe.html = 1648104722094
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\constant-values.html = 1648104721692
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\deprecated-list.html = 1648104722086
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\help-doc.html = 1648104722104
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\index-all.html = 1648104722081
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\index.html = 1648104722097
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\overview-frame.html = 1648104721556
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\overview-summary.html = 1648104722101
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\overview-tree.html = 1648104722053
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\package-list = 1648104721553
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\script.js = 1648104722109
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\serialized-form.html = 1648104721708
+C:\RosolSoftwareProjects\C4ISTAR\Sample Projects\ModularCommunicationsExample\target\site\apidocs\stylesheet.css = 1648104722106
